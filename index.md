@@ -1,8 +1,5 @@
 ## RecSys 2019 Tutorial on Recommendations in a Marketplace
 
-In recent years, two sided marketplaces have emerged as viable business models in many real world applications (e.g. Amazon, AirBnb, Spotify, YouTube), wherein the platforms have customers not only on the demand side (e.g. users), but also on the supply side (e.g. retailer, artists). Such multi-sided marketplace involves interaction between multiple stakeholders among which there are different individuals with assorted needs. While traditional recommender systems focused specifically towards increasing consumer satisfaction by providing relevant content to the consumers, two-sided marketplaces face an interesting problem of optimizing their models for supplier preferences, and visibility. In this tutorial, we consider a number of research problems which need to be address when developing a recommendation framework powering a multi-stakeholder marketplace. The tutorial provides the audience with a profound introduction to this upcoming area and presents directions of further research.
-
-
 ### Venue
 [RecSys 2019, Copenhagen, Denmark](https://recsys.acm.org/recsys19/tutorials/#content-tab-1-4-tab)
 
@@ -26,7 +23,7 @@ In thistutorial, we consider a number ofresearch problems which need to be addre
 
   
 2. Optimization Objectives in a Marketplace
-  - Use-cases I - VII
+  - Industrial Use-cases (I - VII)
     - Stakeholders & their objectives
   - Families of objectives
   - Interplay between Objectives
@@ -50,7 +47,7 @@ In thistutorial, we consider a number ofresearch problems which need to be addre
   - Extracting Consumer Characteristics
   - User affinity models 
 
-5. Multi-sided evaluation [Ben]
+5. Multi-sided evaluation
   - Simulation based evaluation 
   - Offline & online A/B evaluation techniques 
   - Counterfactual evaluation 
