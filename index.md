@@ -70,12 +70,15 @@ Part 3: [link to slides]()
 Parts 4 & 5: [link to slides]()
 
 ### Organizers
-1. [Rishabh Mehrotra](http://www.rishabhmehrotra.com), Sr. Research Scientist, Spotify Research, London
+1. [Rishabh Mehrotra](http://www.rishabhmehrotra.com)
+Sr. Research Scientist, Spotify Research, London
 
-Rishabh Mehrotra is a Research Scientist at Spotify Research in London. He obtained his PhD in the feld of Machine Learning and Information Retrieval from University College London where he was partially supported by a Google Research Award. His current research focuses on marketplace ML and bandit based recommendations. Some of hisrecent work has been published at top conferences including WWW, SIGIR, NAACL, CIKM, RecSys and WSDM. Dr. Rishabh has co-taught a number of tutorials at leading conferences (WWW & CIKM) & has also taught courses at summer schools.
+  Rishabh Mehrotra is a Research Scientist at Spotify Research in London. He obtained his PhD in the feld of Machine Learning and Information Retrieval from University College London where he was partially supported by a Google Research Award. His current research focuses on marketplace ML and bandit based recommendations. Some of hisrecent work has been published at top conferences including WWW, SIGIR, NAACL, CIKM, RecSys and WSDM. Dr. Rishabh has co-taught a number of tutorials at leading conferences (WWW & CIKM) & has also taught courses at summer schools.
 
-2. [Benjamin Carterette](http://ir.cis.udel.edu/~carteret/), Sr Research Manager, Spotify, NYC; Associate Professor, University of Delaware
+2. [Benjamin Carterette](http://ir.cis.udel.edu/~carteret/)
+Sr Research Manager, Spotify, NYC
+Associate Professor, University of Delaware
 
-Ben Carterette is a Senior Research Manager at Spotify and an Associate Professor of Computer and Information Sciences at the University of Delaware in Newark, Delaware, USA. His research focuses on evaluation in Information Retrieval, including test collection construction, evaluation measures, and statistical testing. He has published over 70 papers in venues such as ACM TOIS, SIGIR, CIKM, WSDM, ECIR, and ICTIR, winning three Best Paper Awards for his work. In addition, he has co-organized four workshops on IR evaluation and coordinated fve TREC tracks. Dr Carterette has recently been elected as the Chair for SIGIR
+  Ben Carterette is a Senior Research Manager at Spotify and an Associate Professor of Computer and Information Sciences at the University of Delaware in Newark, Delaware, USA. His research focuses on evaluation in Information Retrieval, including test collection construction, evaluation measures, and statistical testing. He has published over 70 papers in venues such as ACM TOIS, SIGIR, CIKM, WSDM, ECIR, and ICTIR, winning three Best Paper Awards for his work. In addition, he has co-organized four workshops on IR evaluation and coordinated fve TREC tracks. Dr Carterette has recently been elected as the Chair for SIGIR.
 
 
